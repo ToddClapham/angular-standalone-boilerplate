@@ -32,6 +32,7 @@
               "node_modules/bootstrap-icons/font/bootstrap-icons.css",
               "src/styles-bootstrap.min.css",
               "src/styles.css",
+              "src/styles.scrollbars.css",
               "src/styles.text.css"
             ],
             "scripts": [

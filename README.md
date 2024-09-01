@@ -1,4 +1,6 @@
-# To create a new project from this boilerplate:
+# Angular boilerplate:
+
+## How to download this boilerplate:
 
 1. Download this code as a zip file from GitHub
 2. Rename the new project folder to your API's name

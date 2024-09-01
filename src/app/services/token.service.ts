@@ -2,8 +2,8 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { map } from 'rxjs';
 import { environment } from 'src/environments/environment';
-import jwtDecode from 'jwt-decode';
 import { ITokenPayload } from '../interfaces/ITokenPayload';
+import { jwtDecode } from 'jwt-decode';
 
 @Injectable({
   providedIn: 'root'
